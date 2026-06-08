@@ -57,28 +57,28 @@ This project analyzes historical international football data to uncover trends, 
 ## Screenshots & Visualizations
 
 ### Home Advantage Analysis
-![Home Advantage](visualizations/05_home_advantage.png)
+![Home Advantage](./visualizations/05_home_advantage.png)
 
 ### Top Teams by Matches Played
-![Top Teams](visualizations/01_top_teams.png)
+![Top Teams](./visualizations/01_top_teams.png)
 
 ### Goals Over Time (150+ Years)
-![Goals Trend](visualizations/06_goals_over_time.png)
+![Goals Trend](./visualizations/06_goals_over_time.png)
 
 ### Top Scoring Nations
-![Scoring Nations](visualizations/10_top_nations.png)
+![Scoring Nations](./visualizations/10_top_nations.png)
 
 ### Goal Type Distribution
-![Goal Types](visualizations/11_goal_types.png)
+![Goal Types](./visualizations/11_goal_types.png)
 
 ### Top 20 All-Time Goal Scorers
-![Top Scorers](visualizations/09_top_scorers.png)
+![Top Scorers](./visualizations/09_top_scorers.png)
 
 ### Penalty Shootout Winners
-![Shootout Winners](visualizations/12_shootout_winners.png)
+![Shootout Winners](./visualizations/12_shootout_winners.png)
 
 ### Goal Distribution Analysis
-![Goal Distribution](visualizations/14_goal_distribution.png)
+![Goal Distribution](./visualizations/14_goal_distribution.png)
 
 ---
 
