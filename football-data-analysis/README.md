@@ -105,7 +105,7 @@ This project analyzes historical international football data to uncover trends, 
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/football-data-analysis.git
+git clone https://github.com/DeadlyPro34/football-data-analysis.git
 cd football-data-analysis
 ```
 
@@ -130,12 +130,18 @@ data/
 
 **5. Launch Jupyter Notebook**
 ```bash
-jupyter notebook Football_Analysis_Complete.ipynb
+jupyter notebook Football_Analysis.ipynb
 ```
 
 **6. Run All Cells**
 - Click `Cell` → `Run All`
 - Or run cells sequentially (recommended)
+
+**Alternative: Run via Python Script**
+If you prefer not to use Jupyter Notebook, you can run the analysis and regenerate all visualizations directly using the included Python scripts:
+```bash
+python regenerate_visuals.py
+```
 
 ---
 
@@ -200,7 +206,9 @@ football-data-analysis/
 │   ├── 06_goals_over_time.png
 │   └── ... (more charts)
 │
-├── Football_Analysis_Complete.ipynb    # Main analysis notebook
+├── Football_Analysis.ipynb             # Main analysis notebook
+├── regenerate_visuals.py               # Script to regenerate all chart images
+├── run_analysis.py                     # Python script extracted from the notebook
 ├── README.md                           # This file
 ├── requirements.txt                    # Python dependencies
 └── .gitignore                         # Git ignore file
@@ -209,7 +217,8 @@ football-data-analysis/
 
 | File | Purpose |
 |------|---------|
-| `Football_Analysis_Complete.ipynb` | Complete analysis with 19 sections, visualizations, and insights |
+| `Football_Analysis.ipynb` | Complete analysis with 19 sections, visualizations, and insights |
+| `regenerate_visuals.py` | Standalone script to properly regenerate and save all visualization images |
 | `requirements.txt` | Python package dependencies |
 | `data/` | Raw CSV datasets |
 | `visualizations/` | Generated charts and graphs |
@@ -314,7 +323,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 If you use this analysis in your work, please cite:
 International Football Data Analysis (2024)
-https://github.com/YOUR_USERNAME/football-data-analysis
+https://github.com/DeadlyPro34/football-data-analysis
 
 ---
 
