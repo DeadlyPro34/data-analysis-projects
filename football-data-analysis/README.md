@@ -329,9 +329,9 @@ https://github.com/DeadlyPro34/football-data-analysis
 
 ## Author
 
-**Your Name**
+**Akhil Biju Varghese**
 - GitHub: [DeadlyPro34](https://github.com/DeadlyPro34)
-- Portfolio: [your-portfolio.com](https://akhilpro34-portfolio.vercel.app/)
+- Portfolio: [https://akhilpro34-portfolio.vercel.app/](https://akhilpro34-portfolio.vercel.app/)
 - LinkedIn: [Akhil Biju Varghese](www.linkedin.com/in/akhil-biju-varghese-80659233a)
 
 ---
